@@ -1,0 +1,4 @@
+package: local/study-go-kit3
+import:
+- package: github.com/go-kit/kit
+  version: ^0.6.0
